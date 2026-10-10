@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "units": [
+    {
+      "id": "smart-policy",
+      "name": "스마트거버넌스정책전공",
+      "parent": "인하대학교 일반대학원 · 학과간 협동과정",
+      "description": "데이터 기반 정책결정과 디지털 정부, 시민참여형 거버넌스를 연구하는 교육과정입니다.",
+      "url": "https://grad.inha.ac.kr/grad/5787/subview.do?enc=Zm5jdDF8QEB8JTJGZGVwYXJ0bWVudEludHJvJTJGZ3JhZCUyRjE1OTYlMkYxNjc5JTJGaW50cm9WaWV3LmRvJTNGc2l0ZUlkJTNEZ3JhZCUyNmluaGFpZCUzRCUyNg%3D%3D"
+    },
+    {
+      "id": "smart-admin",
+      "name": "스마트거버넌스행정학과",
+      "parent": "인하대학교 창의글로벌대학원",
+      "description": "기술혁신과 행정·정책을 융합하는 국제 석사과정으로, 한글·영어 교육과 실무 프로젝트를 소개합니다.",
+      "url": "https://www.inha.ac.kr/"
+    },
+    {
+      "id": "institute",
+      "name": "스마트거버넌스정책연구소",
+      "parent": "인하대학교 부설 연구소",
+      "description": "스마트거버넌스 연구인력 육성, 융합 연구·교육, 지속가능성과 혁신을 위한 정책연구를 연결합니다.",
+      "url": "https://www.inha.ac.kr/rules/kr/6897/fileDown.do?fileGubun=pdf"
+    }
+  ],
+  "members": [
+    {
+      "id": "faculty-1",
+      "name": "명승환",
+      "name_en": "Seunghwan Myeong",
+      "role": "faculty",
+      "position": "전임 교원",
+      "affiliations": [
+        "smart-admin"
+      ],
+      "research": "AI 거버넌스 정책",
+      "program": "",
+      "bio": "",
+      "email": "",
+      "published": true,
+      "source": "스마트거버넌스행정학과 소개자료_KR+CN.pptx, 6쪽"
+    },
+    {
+      "id": "faculty-2",
+      "name": "정창훈",
+      "name_en": "",
+      "role": "faculty",
+      "position": "전임 교원",
+      "affiliations": [
+        "smart-admin"
+      ],
+      "research": "AI 기반 재정정책",
+      "program": "",
+      "bio": "",
+      "email": "",
+      "published": true,
+      "source": "스마트거버넌스행정학과 소개자료_KR+CN.pptx, 6쪽"
+    },
+    {
+      "id": "faculty-3",
+      "name": "문국경",
+      "name_en": "",
+      "role": "faculty",
+      "position": "전임 교원",
+      "affiliations": [
+        "smart-admin"
+      ],
+      "research": "AI 조직이론",
+      "program": "",
+      "bio": "",
+      "email": "",
+      "published": true,
+      "source": "스마트거버넌스행정학과 소개자료_KR+CN.pptx, 6쪽"
+    },
+    {
+      "id": "faculty-4",
+      "name": "박진솔",
+      "name_en": "",
+      "role": "faculty",
+      "position": "전임 교원",
+      "affiliations": [
+        "smart-admin"
+      ],
+      "research": "AI 인적조직관리",
+      "program": "",
+      "bio": "",
+      "email": "",
+      "published": true,
+      "source": "스마트거버넌스행정학과 소개자료_KR+CN.pptx, 6쪽"
+    },
+    {
+      "id": "faculty-5",
+      "name": "박성철",
+      "name_en": "",
+      "role": "faculty",
+      "position": "비전임 교원",
+      "affiliations": [
+        "smart-admin"
+      ],
+      "research": "AI 행정, 연구방법",
+      "program": "",
+      "bio": "",
+      "email": "",
+      "published": true,
+      "source": "스마트거버넌스행정학과 소개자료_KR+CN.pptx, 6쪽"
+    },
+    {
+      "id": "faculty-6",
+      "name": "김현수",
+      "name_en": "",
+      "role": "faculty",
+      "position": "비전임 교원",
+      "affiliations": [
+        "smart-admin"
+      ],
+      "research": "AI 거버넌스 법제",
+      "program": "",
+      "bio": "",
+      "email": "",
+      "published": true,
+      "source": "스마트거버넌스행정학과 소개자료_KR+CN.pptx, 6쪽"
+    },
+    {
+      "id": "faculty-7",
+      "name": "장닝",
+      "name_en": "",
+      "role": "faculty",
+      "position": "비전임 교원",
+      "affiliations": [
+        "smart-admin"
+      ],
+      "research": "환경자원정책, 중국 AI정책",
+      "program": "",
+      "bio": "",
+      "email": "",
+      "published": true,
+      "source": "스마트거버넌스행정학과 소개자료_KR+CN.pptx, 6쪽"
+    }
+  ]
+}
