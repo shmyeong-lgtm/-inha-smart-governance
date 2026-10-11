@@ -6,21 +6,32 @@
       "name": "스마트거버넌스정책전공",
       "parent": "인하대학교 일반대학원 · 학과간 협동과정",
       "description": "데이터 기반 정책결정과 디지털 정부, 시민참여형 거버넌스를 연구하는 교육과정입니다.",
-      "url": "https://grad.inha.ac.kr/grad/5787/subview.do?enc=Zm5jdDF8QEB8JTJGZGVwYXJ0bWVudEludHJvJTJGZ3JhZCUyRjE1OTYlMkYxNjc5JTJGaW50cm9WaWV3LmRvJTNGc2l0ZUlkJTNEZ3JhZCUyNmluaGFpZCUzRCUyNg%3D%3D"
+      "url": "https://grad.inha.ac.kr/grad/5787/subview.do?enc=Zm5jdDF8QEB8JTJGZGVwYXJ0bWVudEludHJvJTJGZ3JhZCUyRjE1OTYlMkYxNjc5JTJGaW50cm9WaWV3LmRvJTNGc2l0ZUlkJTNEZ3JhZCUyNmluaGFpZCUzRCUyNg%3D%3D",
+      "name_en": "Smart Governance Policy Program",
+      "parent_en": "Inha University · Graduate School · Interdisciplinary Program",
+      "description_en": "An interdisciplinary program exploring data-informed policymaking, digital government and participatory governance."
     },
     {
       "id": "smart-admin",
       "name": "스마트거버넌스행정학과",
       "parent": "인하대학교 창의글로벌대학원",
-      "description": "기술혁신과 행정·정책을 융합하는 국제 석사과정으로, 한글·영어 교육과 실무 프로젝트를 소개합니다.",
-      "url": "https://www.inha.ac.kr/"
+      "description": "데이터 기반 정책결정, 시민참여형 거버넌스와 전자정부 운영을 교육하는 국제 석사과정입니다. 영어 교육과 현장 중심 프로젝트를 통해 글로벌 공공리더십을 기릅니다.",
+      "url": "https://global.inha.ac.kr/global/18001/subview.do",
+      "name_en": "Smart Governance Public Administration",
+      "parent_en": "Inha University · Graduate School of Creative Global Studies",
+      "description_en": "An international master's program covering data-informed policy decisions, citizen participation and digital government. English-taught courses and practice-based projects develop global public leadership.",
+      "phone": "032-860-9582",
+      "office": "평생교육관 221호"
     },
     {
       "id": "institute",
       "name": "스마트거버넌스정책연구소",
       "parent": "인하대학교 부설 연구소",
       "description": "스마트거버넌스 연구인력 육성, 융합 연구·교육, 지속가능성과 혁신을 위한 정책연구를 연결합니다.",
-      "url": "https://www.inha.ac.kr/rules/kr/6897/fileDown.do?fileGubun=pdf"
+      "url": "https://www.inha.ac.kr/rules/kr/6897/fileDown.do?fileGubun=pdf",
+      "name_en": "Smart Governance Policy Research Institute",
+      "parent_en": "Inha University · Research Institute",
+      "description_en": "Connecting interdisciplinary research, education and policy studies for sustainable innovation."
     }
   ],
   "members": [
@@ -102,6 +113,24 @@
       "profile_url": "https://publicad.inha.ac.kr/publicad/7669/subview.do",
       "homepage_url": "https://sites.google.com/view/jinsol-park/home",
       "profile_url_en": "https://sites.google.com/view/jinsol-park/home",
+      "links_checked": "2026-10-11"
+    },
+    {
+      "id": "faculty-8",
+      "name": "우하린",
+      "name_en": "Harin Woo",
+      "role": "faculty",
+      "position": "전임 교원",
+      "affiliations": [
+        "smart-admin"
+      ],
+      "research": "행정학",
+      "program": "",
+      "bio": "",
+      "email": "harinwoo@inha.ac.kr",
+      "published": true,
+      "profile_url": "https://publicad.inha.ac.kr/publicad/7669/subview.do",
+      "source": "인하대학교 행정학과 공식 교수소개 및 TA 모집 공고; 스마트거버넌스행정학과 추가는 관리자 요청",
       "links_checked": "2026-10-11"
     },
     {
